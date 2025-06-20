@@ -3,5 +3,6 @@ null,
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":807,"scrollY":479.5},
 {"id":2,"expanded":true,"name":"Gaia","order":2,"parentId":0,"scrollX":807,"scrollY":479.5,"quick":false},
 {"id":3,"expanded":true,"name":"Town 1","order":3,"parentId":2,"scrollX":815,"scrollY":480.5,"quick":false},
-{"id":4,"expanded":false,"name":"House 1","order":4,"parentId":3,"scrollX":807,"scrollY":479.5,"quick":false}
+{"id":4,"expanded":false,"name":"House 1","order":4,"parentId":3,"scrollX":807,"scrollY":479.5,"quick":false},
+{"id":5,"expanded":false,"name":"Town 2 ","order":5,"parentId":3,"scrollX":807,"scrollY":479.5,"quick":false}
 ]
